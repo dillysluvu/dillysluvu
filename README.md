@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a beginner learning to code, and I enjoy the process. I'm eager to explore more about computers and their capabilities.
 
 * 🌍  I'm based in 🇻🇳Hanoi, Viet Nam 🇻🇳
-* ✉️  You can contact me at [uyvukieu@gmail.com](mailto:uyvukieu@gmail.com)
+* ✉️ You can contact me at: [uyvukieu@gmail.com](mailto:uyvukieu@gmail.com)   
 * 🚀  I'm currently working on [Stemist Club](http://github.com/stemistclub)
 * 🧠  I'm learning Linux, Arduino, Assembly, C++ and Rust ...
 * 🤝  I'm open to collaborating on Other Robot or Security project
