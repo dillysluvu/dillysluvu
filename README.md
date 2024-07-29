@@ -16,11 +16,11 @@ src="https://img.shields.io/github/followers/dillysluvu?logo=github&style=for-th
 ### Skills
 
 <p align="left">
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" />
-  </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  </a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
