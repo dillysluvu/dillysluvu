@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a beginner learning to code, and I enjoy the process. I'm eager to explore more about computers and their capabilities.
 
-* 🌍  I'm based in 🇻🇳Hanoi, Viet Nam 🇻🇳
-* ✉️ You can contact me at: [uyvukieu@gmail.com](mailto:uyvukieu@gmail.com)   
-* 🚀  I'm currently working on [Stemist Club](http://github.com/stemistclub)
-* 🧠  I'm learning Linux and C++
-* 🤝  I'm open to collaborating on Other Robot or Security project
-* ⚡  I love Linux but my friends find it hilarious. They always say, 'What do you want in Linux? Isn't Windows better?' 😼
+* 🌍  Based in 🇻🇳 Hanoi, Viet Nam 🇻🇳
+* ✉️ Contact me at: [uyvukieu@gmail.com](mailto:uyvukieu@gmail.com)
+* 🚀  Currently working on [Stemist Club](http://github.com/stemistclub)
+* 🧠  Learning Linux, Vim, and C++
+* 🤝  Open to collaborating on robotics or security projects
+* ⚡  Passionate about Linux, even though my friends find it funny. They always ask, 'Why Linux? Isn't Windows better?' 😼
 
 <a href="https://www.github.com/dillysluvu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dillysluvu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
