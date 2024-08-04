@@ -1,18 +1,19 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Dillysluvu
 ==================================================================================================================================
 
-I am a beginner learning to code, and I enjoy the process. I'm eager to explore more about computers and their capabilities.
+I'm a beginner learning to code, and I'm really enjoying the journey. I'm eager to dive deeper into the world of computers and discover all the amazing things they can do.
 
-* 🌍  Based in 🇻🇳 Hanoi, Viet Nam 🇻🇳
-* ✉️ Contact me at: [uyvukieu@gmail.com](mailto:uyvukieu@gmail.com)
-* 🚀  Currently working on [Stemist Club](http://github.com/stemistclub)
-* 🧠  Learning Linux, Vim, and C++
-* 🤝  Open to collaborating on robotics or security projects
-* ⚡  Passionate about Linux, even though my friends find it funny. They always ask, 'Why Linux? Isn't Windows better?' 😼
+- 🌍 Based in Hanoi, Vietnam
+- ✉️ Contact me at: [uyvukieu@gmail.com](mailto:uyvukieu@gmail.com)
+- 🚀 Currently working on [Stemist Club](http://github.com/stemistclub)
+- 🧠 Learning Linux, Vim, and C++
+- 🤝 Open to collaborating on robotics or security projects
+- ⚡ Passionate about Linux, even though my friends often tease me. They always ask, 'Why Linux? Isn't Windows better?' 😼
 
-<a href="https://www.github.com/dillysluvu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dillysluvu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/dillysluvu" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/dillysluvu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 ### Skills
 
@@ -55,8 +56,8 @@ src="https://img.shields.io/github/followers/dillysluvu?logo=github&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
+**My GitHub Stats**
 
 <a href="https://github.com/dillysluvu" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillysluvu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillysluvu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
